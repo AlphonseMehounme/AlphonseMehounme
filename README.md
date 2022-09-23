@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphonseMehounme
-- 👀 I’m interested in Blockchain, Bitcoin Development and Web 
-- 🌱 I’m currently learning Development at ALX
-- 💞️ I’m looking to collaborate on project related to Bitcoin, Blockchain, DeFi, Crypto and FinTech
+- 👀 I’m interested in Bitcoin, Lightning & Web Development
+- 🌱 I’m currently learning SE at ALX
+- 💞️ I’m looking for plebs working on Bitcoin & FinTech related projects to work with.
 - 📫 How to reach me ? on twitter. My username is mehounme
 
 <!---
