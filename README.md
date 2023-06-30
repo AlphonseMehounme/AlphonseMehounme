@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphonseMehounme
-- 👀 I’m interested in Bitcoin, Lightning & Web Development
-- 🌱 I’m currently learning SE at ALX
+- 👀 I’m interested in Bitcoin, Lightning & Softwares
+- 🌱 I’m currently learning SE at ALX and Building Flash (bitcoinflash.xyz)
 - 💞️ I’m looking for plebs working on Bitcoin & FinTech related projects to work with.
 - 📫 How to reach me ? on twitter. My username is mehounme
 
