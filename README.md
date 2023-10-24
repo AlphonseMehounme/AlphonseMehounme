@@ -1,6 +1,6 @@
-<h1>About Me<h1>
+About me
 
-- <p>👋 Hi, I’m @AlphonseMehounme</p>
+- 👋 Hi, I’m @AlphonseMehounme
 - 👀 I’m interested in Bitcoin, Lightning & Softwares
 - 🌱 I’m currently learning SE at ALX and Building Flash (bitcoinflash.xyz)
 - 💞️ I’m looking for plebs working on Bitcoin & FinTech related projects to work with.
