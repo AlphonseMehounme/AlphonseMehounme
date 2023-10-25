@@ -14,6 +14,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphonseMehounme&" alt="mehounme" /></p>
 
+1. Learn()
+2. Build()
+3. Rest()
+4. Repeat all()
+   
 *We Keep Learning and Building...*
 <!---
 AlphonseMehounme/AlphonseMehounme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
