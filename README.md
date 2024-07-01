@@ -14,6 +14,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphonseMehounme&" alt="mehounme" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/5c31be2b-5dfa-457c-a25e-501442d204fe.svg)](https://wakatime.com/@5c31be2b-5dfa-457c-a25e-501442d204fe)
+
 1. Learn()
 2. Build()
 3. Rest()
