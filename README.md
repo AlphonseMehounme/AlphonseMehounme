@@ -18,10 +18,12 @@
 
 [![wakatime](https://wakatime.com/badge/user/5c31be2b-5dfa-457c-a25e-501442d204fe.svg)](https://wakatime.com/@5c31be2b-5dfa-457c-a25e-501442d204fe)
 
+<h2>Motto...</h2>
+
 1. Learn()
 2. Build()
-3. Rest()
-4. Repeat all()
+3. Improve()
+4. Go_to_1()
    
 *We Keep Learning and Building...*
 <!---
