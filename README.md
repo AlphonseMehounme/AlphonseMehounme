@@ -1,6 +1,8 @@
-<h1 style="text-align:center;">Welcome to my World</h1>
+<div style="text-align:center;">
+  <h1>Welcome to my World</h1>
+</div>
 
-<img src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500" style="display: block; margin: 10px auto;">
 
 <h2>About me</h2>
 
