@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e">
+<h1>Welcome to my World</h1>
 
+<img src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="300" height="300">
 
 <h2>About me</h2>
 
