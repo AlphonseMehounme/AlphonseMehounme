@@ -1,3 +1,6 @@
+![ALAIBOT](https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e)
+
+
 <h2>About me</h2>
 
 - 👋 Hi, I’m @AlphonseMehounme
