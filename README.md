@@ -11,6 +11,8 @@
 - 📫 How to reach me ? on twitter. My username is mehounme
 
 <h2>My Github Stats...</h2>
+
+[![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphonseMehounme&show_icons=true&locale=en&layout=compact" alt="mehounme" /></p>
 
