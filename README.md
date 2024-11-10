@@ -26,6 +26,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/benin/AlphonseMehounme.svg)](https://user-badge.committers.top/benin/AlphonseMehounme)
 
+[![committers.top badge](https://user-badge.committers.top/benin/yam1er.svg)](https://user-badge.committers.top/benin/yam1er)
+
 
 <h2>Motto...</h2>
 
