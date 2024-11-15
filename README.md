@@ -6,13 +6,13 @@
 
 - 👋 Hi, I’m @AlphonseMehounme
 - 👀 I’m interested in Bitcoin, Lightning & Softwares
-- 🌱 I’m currently learning SE at ALX Africa, Bitcoin Dev at PlanB Tech School and Building [Flash](bitcoinflash.xyz)
+- 🌱 I’m currently learning SE at ALX Africa, Bitcoin Dev at PlanB Tech School and Building [Flash](https://www.bitcoinflash.xyz)
 - 💞️ I’m looking for plebs working on Bitcoin & FinTech related projects to work with.
-- 📫 How to reach me ? on X (Twitter) at [mehounme](hppts://x.com/mehounme)
+- 📫 How to reach me ? on X (Twitter) at [mehounme](https://x.com/mehounme)
 
 <h2>My Github Stats...</h2>
 
-<p align="center">[![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphonseMehounme&show_icons=true&locale=en&layout=compact" alt="mehounme" /></p>
 
