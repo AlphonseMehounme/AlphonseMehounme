@@ -20,11 +20,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphonseMehounme&" alt="mehounme" /></p>
 
-<h2>Wakatime...</h2>
+<h2>Wakatime Stats...</h2>
 
 [![wakatime](https://wakatime.com/badge/user/5c31be2b-5dfa-457c-a25e-501442d204fe.svg)](https://wakatime.com/@5c31be2b-5dfa-457c-a25e-501442d204fe)
 
+<h2>Github Benin Top users ranking</h2>
+
 [![committers.top badge](https://user-badge.committers.top/benin/AlphonseMehounme.svg)](https://user-badge.committers.top/benin/AlphonseMehounme)
+
+[![committers.top badge](https://user-badge.committers.top/senegal/tomavoclarisse.svg)](https://user-badge.committers.top/senegal/tomavoclarisse)
+
 
 
 <h2>Motto...</h2>
