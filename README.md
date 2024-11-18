@@ -4,9 +4,9 @@
   <img align="center" src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500">
 </p>
 
-<div align="center">
+<center>
   [![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
-</div>
+</center>
 
 <h2>About me</h2>
 
