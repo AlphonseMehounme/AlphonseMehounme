@@ -5,6 +5,8 @@
   [![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
 </p>
 
+<p href="https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true">Profile Views</p>
+
 <h2>About me</h2>
 
 - 👋 Hi, I’m @AlphonseMehounme
