@@ -1,6 +1,11 @@
 <h1 align="center">Welcome to my World</h1>
 
-[![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in) -->
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlphonseMehounme}/count.svg" /></p> 
+<br></div>
 
 <p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500">
