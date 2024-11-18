@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to my World</h1>
 
-<p align="center"><img align="center" src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500"></p>
+<p align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/7c4a50be-eecd-42e3-9f6b-26540505055e" width="500" height="500">
+  [![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
+</p>
 
 <h2>About me</h2>
 
@@ -11,8 +14,6 @@
 - 📫 How to reach me ? on X (Twitter) at [mehounme](https://x.com/mehounme)
 
 <h2>My Github Stats...</h2>
-
-[![](https://visitcount.itsvg.in/api?id=mehounme&label=Profile%20Views&color=7&icon=4&pretty=true)](https://visitcount.itsvg.in)
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphonseMehounme&show_icons=true&locale=en&layout=compact" alt="mehounme" /></p>
 
