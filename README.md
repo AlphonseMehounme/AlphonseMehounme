@@ -19,7 +19,7 @@
 - 💞️ I’m looking for plebs working on Bitcoin & FinTech related projects to work with.
 - 📫 How to reach me ? on X (Twitter) at [mehounme](https://x.com/mehounme)
 
-<h2>My Github Stats...</h2>
+<h2>My Github Stats</h2>
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphonseMehounme&show_icons=true&locale=en&layout=compact" alt="mehounme" /></p>
 
@@ -27,7 +27,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphonseMehounme&" alt="mehounme" /></p>
 
-<h2>Wakatime Stats...</h2>
+<h2>Wakatime Stats</h2>
 
 [![wakatime](https://wakatime.com/badge/user/5c31be2b-5dfa-457c-a25e-501442d204fe.svg)](https://wakatime.com/@5c31be2b-5dfa-457c-a25e-501442d204fe)
 
@@ -35,11 +35,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/benin/AlphonseMehounme.svg)](https://user-badge.committers.top/benin/AlphonseMehounme)
 
-<h2>Github Trophy</h2>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mrdeckA)](https://github-profile-trophy.vercel.app/?username=AlphonseMehounme)
-
-<h2>Motto...</h2>
+<h2>Live by ...</h2>
 
 1. Learn()
 2. Build()
